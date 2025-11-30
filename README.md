@@ -10,7 +10,8 @@ Chaque opération contient :
 - une **description**
 
   
-[releve_schema.bmp](https://github.com/user-attachments/files/23839167/releve_schema.bmp)
+<img width="388" height="435" alt="image" src="https://github.com/user-attachments/assets/0d095af9-0b5d-4462-a92b-695e5595c6ff" />
+
 
 
 ##  résultat XSL
