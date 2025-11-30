@@ -1,0 +1,75 @@
+<!DOCTYPE HTML>
+<html>
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <title>
+                    Relevés de comptes bancaires
+                </title>
+      <style>
+                    body { 
+                    font-family: Arial; 
+                    margin: 20px; 
+                    text-align: left; 
+                    }
+                    h1 { color: #ff8800; }
+                    table { 
+                    border-collapse: collapse; 
+                    width: 70%; 
+                    margin-top: 20px; 
+                    margin-left: auto;
+                    margin-right: auto;
+                    }
+                    th, td { 
+                    border: 1px solid #333; 
+                    padding: 8px; 
+                    }
+                    th { 
+                    background-color: #e5e5e5; 
+                    text-align: left; 
+                    }
+                    td {
+                    text-align: center; 
+                    }
+                </style>
+      <body>
+         <h1><strong>Relevés de comptes bancaires</strong></h1>
+         <p><strong>RIB :</strong>011112222333344445555666</p>
+         <p><strong>Date du relevé :</strong> 2021-11-10</p>
+         <p><strong>Solde :</strong>14500 MAD</p>
+         <h2>Opérations du relevé</h2>
+         <p><strong> De </strong>2021-01-01<strong>  à </strong>2021-01-30</p>
+         <table border="1" width="90%">
+            <tr>
+               <th>Type</th>
+               <th>Date</th>
+               <th>Montant</th>
+               <th>Description</th>
+            </tr>
+            <tr>
+               <td>CREDIT</td>
+               <td>2021-01-01</td>
+               <td>9000</td>
+               <td>Vers Espèce</td>
+            </tr>
+            <tr>
+               <td>DEBIT</td>
+               <td>2021-01-11</td>
+               <td>3400</td>
+               <td>Chèque Guichet</td>
+            </tr>
+            <tr>
+               <td>DEBIT</td>
+               <td>2021-01-15</td>
+               <td>120</td>
+               <td>Prélèvement Assurence</td>
+            </tr>
+            <tr>
+               <td>CREDIT</td>
+               <td>2021-01-25</td>
+               <td>70000</td>
+               <td>Virement ..</td>
+            </tr>
+         </table>
+      </body>
+   </head>
+</html>
